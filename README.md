@@ -1,5 +1,7 @@
 # วิธีการ get API กับ PPING Topup
 
+![การทำงานของระบบ](https://cdn.pic.in.th/file/picinth/Program-engine.png)
+
 ขั้นตอนแรกขออณุญาคิบอกข้อจำกัดก่อนนะครับ
 ตอนนี้ทาง developer กำลังช็อตจึงอาจจะมีการทำงานช้าบ้างและข้อมูลอาจจะหายบ้างเนื่องจากการให้ Free Hosting
 ## API Reference
