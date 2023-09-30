@@ -64,9 +64,4 @@ function topup(string $code){
 
     return $response;
 }
-
-// เรียกใช้งานฟังก์ชัน topup
-topup("your_link_here");
-
-
 ```
